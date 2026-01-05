@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+#n1{
+  text-decoration: none;
+  margin-right: 15px; 
+  background-color: antiquewhite;
+  padding: 3px;
+  border-radius: 8px;
+}
+nav{
+  background-color: #61dafb;
+  padding: 8px;
+}
+#n1:hover{
+  background-color: rgb(237, 38, 68);
+  color: white;
+}
